@@ -16,7 +16,7 @@ function Footer() {
           <div className="transition-all duration-500 transform hover:-translate-y-1">
             <div className="flex items-center mb-5 space-x-2">
               <BookOpen className="w-7 h-7 text-amber-500" />
-              <h3 className="text-2xl font-bold text-white">Mastery Academy</h3>
+              <h3 className="text-2xl font-bold text-white">Master Academy</h3>
             </div>
             <p className="mb-6 leading-relaxed text-gray-300">
               Empowering Individuals & Executives, Staffs & Entrepreneurs through Coaching, Consulting & Organizational Turnaround since 2013.
